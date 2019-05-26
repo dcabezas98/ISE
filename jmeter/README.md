@@ -14,4 +14,5 @@ administrador y solicita los datos de 20 alumnos.
 (1 login + 20 solicitudes de datos = 21 solicitudes)
 
 En la imagen se ve el report con las 80 + 21 = 101 solicitudes
-realizadas al servidor.
+realizadas al servidor. También en results.jtl, que he sacado
+ejecutando el comando de la captura summary.

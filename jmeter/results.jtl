@@ -1,0 +1,102 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1558896087461,367,Login Administrador,200,OK,Administradores 2-1,text,true,,595,328,1,3,http://localhost:3000/api/v1/auth/login,367,0,32
+1558896087833,655,http://localhost:3000/api/v1/alumnos/alumno/deborawalker%40tropoli.com,200,OK,Administradores 2-1,text,true,,1141,0,1,5,http://localhost:3000/api/v1/alumnos/alumno/deborawalker%40tropoli.com,655,0,0
+1558896087724,765,Login Alumno,200,OK,Alumnos 1-1,text,true,,582,337,4,5,http://localhost:3000/api/v1/auth/login,765,0,4
+1558896087945,1461,Login Alumno,200,OK,Alumnos 1-2,text,true,,582,324,4,5,http://localhost:3000/api/v1/auth/login,1461,0,3
+1558896088217,1191,Login Alumno,200,OK,Alumnos 1-3,text,true,,582,327,4,5,http://localhost:3000/api/v1/auth/login,1191,0,2
+1558896088596,10825,Recuperar Datos Alumno,200,OK,Alumnos 1-1,text,true,,1048,371,4,5,http://localhost:3000/api/v1/alumnos/alumno/rowlandsaunders%40tropoli.com,10825,0,0
+1558896088488,10934,http://localhost:3000/api/v1/alumnos/alumno/cervantesadams%40tropoli.com,200,OK,Administradores 2-1,text,true,,1206,0,1,5,http://localhost:3000/api/v1/alumnos/alumno/cervantesadams%40tropoli.com,10934,0,0
+1558896088484,10940,Login Alumno,200,OK,Alumnos 1-4,text,true,,582,327,4,5,http://localhost:3000/api/v1/auth/login,10940,0,1
+1558896099520,9914,Recuperar Datos Alumno,200,OK,Alumnos 1-4,text,true,,1055,368,4,5,http://localhost:3000/api/v1/alumnos/alumno/celinacrosby%40tropoli.com,9914,0,2
+1558896089523,19911,Recuperar Datos Alumno,200,OK,Alumnos 1-2,text,true,,1547,366,4,5,http://localhost:3000/api/v1/alumnos/alumno/daledalton%40tropoli.com,19911,0,0
+1558896089612,19823,Recuperar Datos Alumno,200,OK,Alumnos 1-3,text,true,,1983,368,4,5,http://localhost:3000/api/v1/alumnos/alumno/velezguthrie%40tropoli.com,19823,0,0
+1558896099423,10013,http://localhost:3000/api/v1/alumnos/alumno/maribelwhite%40tropoli.com,200,OK,Administradores 2-1,text,true,,1539,0,1,5,http://localhost:3000/api/v1/alumnos/alumno/maribelwhite%40tropoli.com,10013,0,0
+1558896099845,9593,Login Alumno,200,OK,Alumnos 1-1,text,true,,583,327,4,5,http://localhost:3000/api/v1/auth/login,9593,0,1
+1558896109437,5,http://localhost:3000/api/v1/alumnos/alumno/velezguthrie%40tropoli.com,200,OK,Administradores 2-1,text,true,,1978,0,1,5,http://localhost:3000/api/v1/alumnos/alumno/velezguthrie%40tropoli.com,4,0,0
+1558896109442,5,http://localhost:3000/api/v1/alumnos/alumno/rowlandsaunders%40tropoli.com,200,OK,Administradores 2-1,text,true,,1043,0,1,5,http://localhost:3000/api/v1/alumnos/alumno/rowlandsaunders%40tropoli.com,5,0,0
+1558896109447,4,http://localhost:3000/api/v1/alumnos/alumno/daledalton%40tropoli.com,200,OK,Administradores 2-1,text,true,,1542,0,1,5,http://localhost:3000/api/v1/alumnos/alumno/daledalton%40tropoli.com,4,0,0
+1558896109452,4,http://localhost:3000/api/v1/alumnos/alumno/ruizoneal%40tropoli.com,200,OK,Administradores 2-1,text,true,,1126,0,1,5,http://localhost:3000/api/v1/alumnos/alumno/ruizoneal%40tropoli.com,4,0,0
+1558896109457,5,http://localhost:3000/api/v1/alumnos/alumno/adkinsstokes%40tropoli.com,200,OK,Administradores 2-1,text,true,,950,0,1,5,http://localhost:3000/api/v1/alumnos/alumno/adkinsstokes%40tropoli.com,5,0,0
+1558896109463,5,http://localhost:3000/api/v1/alumnos/alumno/claudettesampson%40tropoli.com,200,OK,Administradores 2-1,text,true,,1379,0,1,5,http://localhost:3000/api/v1/alumnos/alumno/claudettesampson%40tropoli.com,5,0,0
+1558896109468,4,http://localhost:3000/api/v1/alumnos/alumno/celinacrosby%40tropoli.com,200,OK,Administradores 2-1,text,true,,1050,0,1,5,http://localhost:3000/api/v1/alumnos/alumno/celinacrosby%40tropoli.com,4,0,0
+1558896109472,5,http://localhost:3000/api/v1/alumnos/alumno/randallfinch%40tropoli.com,200,OK,Administradores 2-1,text,true,,999,0,1,5,http://localhost:3000/api/v1/alumnos/alumno/randallfinch%40tropoli.com,5,0,0
+1558896109477,4,http://localhost:3000/api/v1/alumnos/alumno/mariweiss%40tropoli.com,200,OK,Administradores 2-1,text,true,,1565,0,1,5,http://localhost:3000/api/v1/alumnos/alumno/mariweiss%40tropoli.com,4,0,0
+1558896109482,4,http://localhost:3000/api/v1/alumnos/alumno/douglasrobertson%40tropoli.com,200,OK,Administradores 2-1,text,true,,1120,0,1,5,http://localhost:3000/api/v1/alumnos/alumno/douglasrobertson%40tropoli.com,4,0,0
+1558896109487,4,http://localhost:3000/api/v1/alumnos/alumno/margaritamunoz%40tropoli.com,200,OK,Administradores 2-1,text,true,,2109,0,1,5,http://localhost:3000/api/v1/alumnos/alumno/margaritamunoz%40tropoli.com,4,0,0
+1558896109493,4,http://localhost:3000/api/v1/alumnos/alumno/janieking%40tropoli.com,200,OK,Administradores 2-1,text,true,,1143,0,1,5,http://localhost:3000/api/v1/alumnos/alumno/janieking%40tropoli.com,4,0,0
+1558896109498,4,http://localhost:3000/api/v1/alumnos/alumno/woodardoneill%40tropoli.com,200,OK,Administradores 2-1,text,true,,1479,0,1,5,http://localhost:3000/api/v1/alumnos/alumno/woodardoneill%40tropoli.com,4,0,0
+1558896109502,5,http://localhost:3000/api/v1/alumnos/alumno/kristinearnold%40tropoli.com,200,OK,Administradores 2-1,text,true,,964,0,1,5,http://localhost:3000/api/v1/alumnos/alumno/kristinearnold%40tropoli.com,5,0,0
+1558896109507,5,http://localhost:3000/api/v1/alumnos/alumno/bentleysharpe%40tropoli.com,200,OK,Administradores 2-1,text,true,,1275,0,1,5,http://localhost:3000/api/v1/alumnos/alumno/bentleysharpe%40tropoli.com,5,0,0
+1558896109513,5,http://localhost:3000/api/v1/alumnos/alumno/staceytownsend%40tropoli.com,200,OK,Administradores 2-1,text,true,,1005,0,1,5,http://localhost:3000/api/v1/alumnos/alumno/staceytownsend%40tropoli.com,5,0,0
+1558896109519,6,http://localhost:3000/api/v1/alumnos/alumno/blankenshipchapman%40tropoli.com,200,OK,Administradores 2-1,text,true,,1592,0,1,5,http://localhost:3000/api/v1/alumnos/alumno/blankenshipchapman%40tropoli.com,6,0,0
+1558896109644,13,Login Alumno,200,OK,Alumnos 1-2,text,true,,583,329,4,4,http://localhost:3000/api/v1/auth/login,13,0,3
+1558896109676,17,Recuperar Datos Alumno,200,OK,Alumnos 1-1,text,true,,1131,366,4,4,http://localhost:3000/api/v1/alumnos/alumno/ruizoneal%40tropoli.com,17,0,2
+1558896109678,18,Login Alumno,200,OK,Alumnos 1-3,text,true,,583,328,4,4,http://localhost:3000/api/v1/auth/login,18,0,3
+1558896109786,14,Login Alumno,200,OK,Alumnos 1-4,text,true,,583,323,4,4,http://localhost:3000/api/v1/auth/login,14,0,3
+1558896109900,11,Recuperar Datos Alumno,200,OK,Alumnos 1-3,text,true,,1010,371,4,4,http://localhost:3000/api/v1/alumnos/alumno/staceytownsend%40tropoli.com,11,0,0
+1558896109920,10,Recuperar Datos Alumno,200,OK,Alumnos 1-2,text,true,,1484,370,4,4,http://localhost:3000/api/v1/alumnos/alumno/woodardoneill%40tropoli.com,10,0,0
+1558896109929,15,Login Alumno,200,OK,Alumnos 1-1,text,true,,583,326,4,4,http://localhost:3000/api/v1/auth/login,15,0,4
+1558896110030,13,Login Alumno,200,OK,Alumnos 1-2,text,true,,583,330,4,4,http://localhost:3000/api/v1/auth/login,13,0,3
+1558896110122,13,Login Alumno,200,OK,Alumnos 1-3,text,true,,583,323,4,4,http://localhost:3000/api/v1/auth/login,12,0,3
+1558896110195,11,Recuperar Datos Alumno,200,OK,Alumnos 1-4,text,true,,1570,366,4,4,http://localhost:3000/api/v1/alumnos/alumno/mariweiss%40tropoli.com,11,0,0
+1558896110211,11,Recuperar Datos Alumno,200,OK,Alumnos 1-1,text,true,,1544,369,4,4,http://localhost:3000/api/v1/alumnos/alumno/maribelwhite%40tropoli.com,11,0,0
+1558896110385,15,Recuperar Datos Alumno,200,OK,Alumnos 1-2,text,true,,1211,371,4,4,http://localhost:3000/api/v1/alumnos/alumno/cervantesadams%40tropoli.com,15,0,0
+1558896110387,19,Recuperar Datos Alumno,200,OK,Alumnos 1-3,text,true,,999,366,4,4,http://localhost:3000/api/v1/alumnos/alumno/soliswest%40tropoli.com,19,0,0
+1558896110495,15,Login Alumno,200,OK,Alumnos 1-4,text,true,,583,327,4,4,http://localhost:3000/api/v1/auth/login,15,0,4
+1558896110565,8,Login Alumno,200,OK,Alumnos 1-1,text,true,,583,333,4,4,http://localhost:3000/api/v1/auth/login,8,0,2
+1558896110737,13,Login Alumno,200,OK,Alumnos 1-3,text,true,,583,331,4,4,http://localhost:3000/api/v1/auth/login,13,0,3
+1558896110749,16,Login Alumno,200,OK,Alumnos 1-2,text,true,,582,330,4,4,http://localhost:3000/api/v1/auth/login,16,0,6
+1558896110911,11,Recuperar Datos Alumno,200,OK,Alumnos 1-1,text,true,,1280,370,4,4,http://localhost:3000/api/v1/alumnos/alumno/bentleysharpe%40tropoli.com,11,0,0
+1558896111035,12,Recuperar Datos Alumno,200,OK,Alumnos 1-2,text,true,,1384,372,4,4,http://localhost:3000/api/v1/alumnos/alumno/claudettesampson%40tropoli.com,12,0,0
+1558896111105,12,Recuperar Datos Alumno,200,OK,Alumnos 1-3,text,true,,969,371,4,4,http://localhost:3000/api/v1/alumnos/alumno/kristinearnold%40tropoli.com,12,0,0
+1558896111111,16,Recuperar Datos Alumno,200,OK,Alumnos 1-4,text,true,,1146,369,4,4,http://localhost:3000/api/v1/alumnos/alumno/deborawalker%40tropoli.com,16,0,0
+1558896111242,14,Login Alumno,200,OK,Alumnos 1-1,text,true,,582,331,4,4,http://localhost:3000/api/v1/auth/login,14,0,2
+1558896111334,12,Login Alumno,200,OK,Alumnos 1-2,text,true,,583,324,4,4,http://localhost:3000/api/v1/auth/login,12,0,2
+1558896111364,15,Login Alumno,200,OK,Alumnos 1-4,text,true,,583,329,4,4,http://localhost:3000/api/v1/auth/login,15,0,3
+1558896111372,16,Login Alumno,200,OK,Alumnos 1-3,text,true,,582,324,4,4,http://localhost:3000/api/v1/auth/login,16,0,4
+1558896111559,11,Recuperar Datos Alumno,200,OK,Alumnos 1-1,text,true,,1728,366,4,4,http://localhost:3000/api/v1/alumnos/alumno/hildaboyle%40tropoli.com,11,0,0
+1558896111575,12,Recuperar Datos Alumno,200,OK,Alumnos 1-2,text,true,,1148,366,4,4,http://localhost:3000/api/v1/alumnos/alumno/janieking%40tropoli.com,12,0,0
+1558896111608,14,Recuperar Datos Alumno,200,OK,Alumnos 1-4,text,true,,2114,371,4,4,http://localhost:3000/api/v1/alumnos/alumno/margaritamunoz%40tropoli.com,14,0,0
+1558896111649,12,Recuperar Datos Alumno,200,OK,Alumnos 1-3,text,true,,2216,367,4,4,http://localhost:3000/api/v1/alumnos/alumno/deliamorton%40tropoli.com,12,0,0
+1558896111737,12,Login Alumno,200,OK,Alumnos 1-4,text,true,,583,322,4,4,http://localhost:3000/api/v1/auth/login,12,0,3
+1558896111796,12,Login Alumno,200,OK,Alumnos 1-2,text,true,,583,330,4,4,http://localhost:3000/api/v1/auth/login,12,0,3
+1558896111953,18,Recuperar Datos Alumno,200,OK,Alumnos 1-4,text,true,,1272,367,4,4,http://localhost:3000/api/v1/alumnos/alumno/lowemeyers%40tropoli.com,18,0,0
+1558896111996,7,Login Alumno,200,OK,Alumnos 1-1,text,true,,583,325,4,4,http://localhost:3000/api/v1/auth/login,7,0,1
+1558896112047,12,Login Alumno,200,OK,Alumnos 1-3,text,true,,583,329,4,4,http://localhost:3000/api/v1/auth/login,12,0,2
+1558896112068,11,Recuperar Datos Alumno,200,OK,Alumnos 1-2,text,true,,906,373,4,4,http://localhost:3000/api/v1/alumnos/alumno/meredithwhitaker%40tropoli.com,11,0,0
+1558896112260,12,Login Alumno,200,OK,Alumnos 1-4,text,true,,582,330,4,4,http://localhost:3000/api/v1/auth/login,12,0,2
+1558896112315,11,Recuperar Datos Alumno,200,OK,Alumnos 1-3,text,true,,1373,371,4,4,http://localhost:3000/api/v1/alumnos/alumno/kerrihendricks%40tropoli.com,11,0,0
+1558896112323,13,Recuperar Datos Alumno,200,OK,Alumnos 1-1,text,true,,955,369,4,4,http://localhost:3000/api/v1/alumnos/alumno/adkinsstokes%40tropoli.com,13,0,0
+1558896112370,13,Login Alumno,200,OK,Alumnos 1-2,text,true,,583,323,4,4,http://localhost:3000/api/v1/auth/login,13,0,3
+1558896112646,12,Login Alumno,200,OK,Alumnos 1-1,text,true,,583,334,4,4,http://localhost:3000/api/v1/auth/login,12,0,3
+1558896112668,14,Login Alumno,200,OK,Alumnos 1-3,text,true,,583,328,4,4,http://localhost:3000/api/v1/auth/login,14,0,3
+1558896112743,12,Recuperar Datos Alumno,200,OK,Alumnos 1-4,text,true,,1460,367,4,4,http://localhost:3000/api/v1/alumnos/alumno/erinpollard%40tropoli.com,12,0,0
+1558896112753,11,Recuperar Datos Alumno,200,OK,Alumnos 1-2,text,true,,1585,367,4,4,http://localhost:3000/api/v1/alumnos/alumno/kinneymoon%40tropoli.com,11,0,0
+1558896112877,10,Recuperar Datos Alumno,200,OK,Alumnos 1-3,text,true,,2233,368,4,4,http://localhost:3000/api/v1/alumnos/alumno/hurleyjames%40tropoli.com,10,0,0
+1558896113007,12,Login Alumno,200,OK,Alumnos 1-4,text,true,,583,332,4,4,http://localhost:3000/api/v1/auth/login,12,0,2
+1558896113019,10,Recuperar Datos Alumno,200,OK,Alumnos 1-1,text,true,,1632,373,4,4,http://localhost:3000/api/v1/alumnos/alumno/dorothyrodriguez%40tropoli.com,10,0,0
+1558896113152,13,Login Alumno,200,OK,Alumnos 1-2,text,true,,582,335,4,4,http://localhost:3000/api/v1/auth/login,13,0,3
+1558896113218,12,Login Alumno,200,OK,Alumnos 1-3,text,true,,583,329,4,4,http://localhost:3000/api/v1/auth/login,12,0,2
+1558896113316,13,Login Alumno,200,OK,Alumnos 1-1,text,true,,583,331,4,4,http://localhost:3000/api/v1/auth/login,13,0,2
+1558896113375,10,Recuperar Datos Alumno,200,OK,Alumnos 1-4,text,true,,964,371,4,4,http://localhost:3000/api/v1/alumnos/alumno/katrinaacevedo%40tropoli.com,10,0,0
+1558896113544,11,Recuperar Datos Alumno,200,OK,Alumnos 1-2,text,true,,1597,374,4,4,http://localhost:3000/api/v1/alumnos/alumno/blankenshipchapman%40tropoli.com,11,0,0
+1558896113582,10,Recuperar Datos Alumno,200,OK,Alumnos 1-3,text,true,,1120,367,4,4,http://localhost:3000/api/v1/alumnos/alumno/wootenrich%40tropoli.com,10,0,0
+1558896113708,11,Recuperar Datos Alumno,200,OK,Alumnos 1-1,text,true,,1086,373,4,4,http://localhost:3000/api/v1/alumnos/alumno/jeannettefrancis%40tropoli.com,11,0,0
+1558896113746,12,Login Alumno,200,OK,Alumnos 1-4,text,true,,583,329,4,4,http://localhost:3000/api/v1/auth/login,12,0,3
+1558896113858,13,Login Alumno,200,OK,Alumnos 1-2,text,true,,583,329,4,4,http://localhost:3000/api/v1/auth/login,12,0,3
+1558896114016,13,Login Alumno,200,OK,Alumnos 1-3,text,true,,583,324,4,4,http://localhost:3000/api/v1/auth/login,13,0,2
+1558896114049,15,Login Alumno,200,OK,Alumnos 1-1,text,true,,583,326,4,4,http://localhost:3000/api/v1/auth/login,15,0,2
+1558896114052,16,Recuperar Datos Alumno,200,OK,Alumnos 1-4,text,true,,2112,369,4,4,http://localhost:3000/api/v1/alumnos/alumno/helenrussell%40tropoli.com,16,0,0
+1558896114127,11,Recuperar Datos Alumno,200,OK,Alumnos 1-2,text,true,,1004,369,4,4,http://localhost:3000/api/v1/alumnos/alumno/randallfinch%40tropoli.com,11,0,0
+1558896114268,10,Recuperar Datos Alumno,200,OK,Alumnos 1-3,text,true,,1970,366,4,4,http://localhost:3000/api/v1/alumnos/alumno/pacelopez%40tropoli.com,10,0,0
+1558896114287,11,Recuperar Datos Alumno,200,OK,Alumnos 1-1,text,true,,1748,368,4,4,http://localhost:3000/api/v1/alumnos/alumno/wileyholden%40tropoli.com,11,0,0
+1558896114358,13,Login Alumno,200,OK,Alumnos 1-4,text,true,,583,329,4,4,http://localhost:3000/api/v1/auth/login,13,0,3
+1558896114372,15,Login Alumno,200,OK,Alumnos 1-2,text,true,,583,327,4,4,http://localhost:3000/api/v1/auth/login,15,0,2
+1558896114501,19,Login Alumno,200,OK,Alumnos 1-1,text,true,,583,333,4,4,http://localhost:3000/api/v1/auth/login,19,0,2
+1558896114597,11,Login Alumno,200,OK,Alumnos 1-3,text,true,,583,329,4,4,http://localhost:3000/api/v1/auth/login,11,0,2
+1558896114602,14,Recuperar Datos Alumno,200,OK,Alumnos 1-4,text,true,,957,368,4,4,http://localhost:3000/api/v1/alumnos/alumno/jamescampos%40tropoli.com,14,0,0
+1558896114701,10,Recuperar Datos Alumno,200,OK,Alumnos 1-2,text,true,,1477,370,4,4,http://localhost:3000/api/v1/alumnos/alumno/kaufmanjoyner%40tropoli.com,10,0,0
+1558896114870,13,Login Alumno,200,OK,Alumnos 1-4,text,true,,583,333,3,3,http://localhost:3000/api/v1/auth/login,12,0,2
+1558896114892,10,Recuperar Datos Alumno,200,OK,Alumnos 1-1,text,true,,922,372,3,3,http://localhost:3000/api/v1/alumnos/alumno/angeliquethomas%40tropoli.com,10,0,0
+1558896115007,14,Recuperar Datos Alumno,200,OK,Alumnos 1-3,text,true,,1159,371,2,2,http://localhost:3000/api/v1/alumnos/alumno/davidsongordon%40tropoli.com,14,0,0
+1558896115145,11,Recuperar Datos Alumno,200,OK,Alumnos 1-4,text,true,,1125,373,1,1,http://localhost:3000/api/v1/alumnos/alumno/douglasrobertson%40tropoli.com,11,0,0
